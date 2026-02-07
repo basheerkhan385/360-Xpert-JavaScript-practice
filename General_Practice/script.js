@@ -191,6 +191,10 @@
 
 // getData();
 
+
+
+// Hoisting 
+
 sayHello(); // "Hello World"
 
 function sayHello() {
